@@ -1,0 +1,5 @@
+bert-base-chinese/tf_model.h5
+*.h5
+*.json
+.idea
+__pycache__

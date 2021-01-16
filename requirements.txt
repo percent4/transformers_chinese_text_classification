@@ -1,0 +1,5 @@
+tensorflow==2.3.2
+transformers==4.0.1
+numpy==1.18.3
+pandas==0.23.0
+scikit_learn==0.24.0
